@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import ContactList from './ContactList';
+import ContactList from './Contactlist';
 import SearchBar from './SearchBar';
 import './App.css';
 
