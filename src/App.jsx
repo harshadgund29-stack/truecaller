@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import ContactList from './Contactlist';
-import SearchBar from './SearchBar';
+import SearchBar from './Searchbar';
 import './App.css';
 
 const API_URL = 'https://jsonplaceholder.typicode.com/users'; // Using a public API for demonstration
